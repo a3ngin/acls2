@@ -1,0 +1,34 @@
+html {
+    background-image: url("https://images.pexels.com/photos/208556/pexels-photo-208556.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+
+body {
+    width: 650px;
+    margin: auto;
+    height: 600px;
+    background-color: rgb(221, 221, 221, 0.7);
+    margin-top: 200px;
+}
+
+.container {
+    width: 550px;
+    margin: auto
+}
+
+.row {
+    margin: auto;
+}
+
+button {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    width: 400px;
+}
+
+button:hover {
+    background-color: rgb(255, 35, 75, 0.25);
+}
